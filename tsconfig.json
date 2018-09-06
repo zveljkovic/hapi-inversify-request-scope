@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "lib": [
+      "es7",
+      "es2017"
+    ],
+    "types": ["reflect-metadata"],
+    "sourceMap": true
+  }
+}
